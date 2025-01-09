@@ -1,3 +1,6 @@
+## Why Fork?
+With the original author [@ghorsington](https://github.com/ghorsington) gone, this plugin broke with the release of 3.41 which updated the game engine to 2022.3, a fix was required so I made it.
+
 # NeighUncenor
 
 This patcher uncensors COM3D2, but is more efficient than YASD. Neigh.
